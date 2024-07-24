@@ -25,11 +25,11 @@ rosrun turtlesim turtle_teleop_key#另外一个terminal控制小乌龟的移动
 
 执行命令之后，出现下图所示的图像，则为安装ROS成功
 
-![image-20240630170749753.png]
+![image](1.png)
 
 
 
-![image-20240709135116066](D:\图片\Screenshots\image-20240709135116066.png)
+![image](2.png)
 
 
 
@@ -47,7 +47,7 @@ rosrun turtlesim turtle_teleop_key#另外一个terminal控制小乌龟的移动
 gedit ~/.bashrc #进入bashrc文件
 sudo unzip file.zip #解压命令
 ```
-![image](image-20240630170749753.png)
+![image](3.png)
 
 如上图所示，我们选用的雷达为a1型号的思岗雷达，创建的工作空间名为catin_ms，所以在bashrc文件当中吗。进行了如下的配置。
 
